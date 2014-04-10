@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>148D5473-AF3E-4EFD-972A-F9341E4C6CB7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CinderSignalTests</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C6AD8C19-7516-4DD2-A806-DCEE2C315B97</key>
+		<string>https://github.com/lucasvickers/boost-connection-manager.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CinderSignalTests/xcode/CinderSignalTests.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C6AD8C19-7516-4DD2-A806-DCEE2C315B97</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lucasvickers/boost-connection-manager.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C6AD8C19-7516-4DD2-A806-DCEE2C315B97</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C6AD8C19-7516-4DD2-A806-DCEE2C315B97</string>
+			<key>IDESourceControlWCCName</key>
+			<string>boost-connection-manager</string>
+		</dict>
+	</array>
+</dict>
+</plist>
