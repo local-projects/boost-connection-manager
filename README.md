@@ -26,7 +26,7 @@ and then to disconnect using
 Signal1.disconnect(Function2)
 Signal1.disconnect(Function3)
 ```
-CONS: This doesn't work if I connect lambda functions and it doesn't explicitly disconnect my Functions when objects are destroyed.
+#####CONS: This doesn't work if I connect lambda functions and it doesn't explicitly disconnect my Functions when objects are destroyed.
 
 ####OPTION 2: I use a vector of connections
 ```
@@ -38,7 +38,7 @@ mConns.push_back( Signal1.connect(Function3) )
 then in the disconnect/deconstructor
 for(auto& conn : mConns) { conn.disconnect(); }
 
-CONS:  Repetative, but this is more or less the structure I'll be using in my connection manager
+#####CONS:  Repetative, but this is more or less the structure I'll be using in my connection manager
 
 ###boost-connection-manager
 
